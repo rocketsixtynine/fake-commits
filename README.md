@@ -1,3 +1,2 @@
-# fake-commits
-Lets see if i can fake torvalds commit
-i am not torvalds
+i am linus
+i am gay
